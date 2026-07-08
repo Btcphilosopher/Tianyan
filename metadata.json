@@ -1,0 +1,6 @@
+{
+  "name": "Tianyan",
+  "description": "A high-fidelity interactive landing page for Tianyan (天衍) Web3 ecosystem, seamlessly blending futuristic cyber aesthetics with classical Eastern philosophy, traditional pagodas, and decentralized mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
